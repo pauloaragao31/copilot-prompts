@@ -6,7 +6,7 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Roreiro de Carreira com IA</h1>
+    <h1>Roteiro de Carreira com IA</h1>
   </p>
 </div>
 
